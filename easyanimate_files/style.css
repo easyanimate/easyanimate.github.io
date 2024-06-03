@@ -171,6 +171,13 @@ p code {
   padding: 2px;
 }
 
+.col-gallery-large {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 2px;
+}
+
 .example-img {
   width: 100%;
 }
